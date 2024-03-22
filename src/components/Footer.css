@@ -1,0 +1,37 @@
+.footer-container {
+  display: flex;
+  height: 100px;
+  background-color: #89b27f;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.social-logo {
+  text-align: center;
+  color: rgb(35, 35, 35);
+}
+
+.footer-logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+}
+
+.Maglogo {
+  display: flex;
+  justify-content: center;
+  padding-left: px;
+}
+
+.social-icon-link {
+  color: #fff;
+  font-size: 40px;
+}
+
+.social-media {
+  max-width: 1000px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
